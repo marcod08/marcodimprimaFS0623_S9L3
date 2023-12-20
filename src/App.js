@@ -2,7 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Nabbar from './components/NabbarComponent';
 import JumboTron from './components/JumboTron';
-import CardBooks from './components/BooksComponent';
+import CardBooks from './components/Main';
 import Footer from './components/FooterComponent';
 
 
